@@ -16,3 +16,4 @@ class CounterViewModel:ViewModel() {
         if(_count.value>0) _count.value-=1
     }
 }
+//https://chatgpt.com/share/67dcb11a-3194-8002-84b9-bed262c763cf
