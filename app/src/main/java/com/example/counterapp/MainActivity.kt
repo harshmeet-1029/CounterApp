@@ -12,14 +12,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
-            CounterApp()
+            CounterScreen()
         }
     }
-}
-
-
-@Composable
-fun CounterApp(){
-    val viewModel: CounterViewModel = viewModel()
-    CounterScreen(viewModel)
 }
