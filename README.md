@@ -9,7 +9,7 @@ A simple Counter App built with Jetpack Compose in Kotlin. The app has a purple 
 - Modern Jetpack Compose design with proper UI elements.
 
 ## Screenshots
-assets/screenrecording.gif
+<img src="assets/screenshot.gif" alt="Counter App Screenshot" width="300"/>
 
 ## Installation
 1. Clone the repository:
