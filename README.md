@@ -33,7 +33,7 @@ A simple Counter App built with Jetpack Compose in Kotlin. The app has a purple 
 - Jetpack Compose
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ---
 Feel free to update this README with any additional details about your project!
